@@ -1,41 +1,40 @@
 ## Personal details
 
-Name: 
+Name: Elon Zito
 
-Country: 
+Country: US
 
-Hourly Rate: 
+Hourly Rate: $50-75/hr 
 
-Timezone: 
+Timezone: EST
 
-Skype Id:
+Skype Id: simsketch
 
 ## Availability
 
 Are you able to work from 3PM to 7PM (GMT -2) ? In case you aren't, what's your availability?
- 
+ Yes
 ## Tech Skills
 
 Assing yourself a score in the following technologies:
 
+Object Oriented Programming (OOP) - 5
 
-Object Oriented Programming (OOP) - 
+Git -  5
 
-Git -  
+PHP 5 - 5
 
-PHP 5 - 
+CakePHP framework - 2
 
-CakePHP framework - 
+MySQL -  5
 
-MySQL -  
+Javascript - 8
 
-Javascript - 
+jQuery -  9
 
-jQuery -  
+HTML - 9
 
-HTML - 
-
-CSS - 
+CSS - 9
 
 ## Questions About OOP:
 
